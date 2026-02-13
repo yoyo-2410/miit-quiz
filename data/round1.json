@@ -20,16 +20,6 @@
     "correct": 1
   },
   {
-    "q": "Which is a UX activity?",
-    "options": [
-      "Logo design",
-      "User research",
-      "Server configuration",
-      "API testing"
-    ],
-    "correct": 1
-  },
-  {
     "q": "Wireframes are mainly used to:",
     "options": [
       "Add animations",
@@ -53,16 +43,6 @@
     "q": "Which principle improves readability most?",
     "options": ["Contrast", "Decoration", "Animation", "Sound"],
     "correct": 0
-  },
-  {
-    "q": "A persona in UX is:",
-    "options": [
-      "A color theme",
-      "A fictional user profile",
-      "A font style",
-      "A layout grid"
-    ],
-    "correct": 1
   },
   {
     "q": "CTA stands for:",
@@ -103,16 +83,6 @@
       "Similar shades"
     ],
     "correct": 2
-  },
-  {
-    "q": "A prototype is used to:",
-    "options": [
-      "Launch product",
-      "Test design ideas",
-      "Market product",
-      "Store data"
-    ],
-    "correct": 1
   },
   {
     "q": "Which is NOT a UX metric?",
@@ -195,26 +165,6 @@
     "correct": 1
   },
   {
-    "q": "Responsive design means:",
-    "options": [
-      "Fast loading",
-      "Adapts to screen sizes",
-      "Uses bright colors",
-      "Has animations"
-    ],
-    "correct": 1
-  },
-  {
-    "q": "Which is an example of micro-interaction?",
-    "options": [
-      "Page reload",
-      "Button hover effect",
-      "Database query",
-      "Server call"
-    ],
-    "correct": 1
-  },
-  {
     "q": "Heuristic evaluation is done by:",
     "options": [
       "End users",
@@ -241,6 +191,57 @@
       "Clear labels",
       "Hidden errors",
       "Tiny fonts"
+    ],
+    "correct": 1
+  },
+
+  {
+    "q": "Which usability principle says users should not have to remember information between screens?",
+    "options": [
+      "Recognition over recall",
+      "Visual hierarchy",
+      "Progressive disclosure",
+      "Consistency"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "What is the main goal of a usability test?",
+    "options": [
+      "Check color palette",
+      "Find real user problems",
+      "Increase animations",
+      "Test server speed"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Progressive disclosure means:",
+    "options": [
+      "Show all information at once",
+      "Hide everything",
+      "Reveal complexity step by step",
+      "Use popups only"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Which design choice most reduces cognitive load?",
+    "options": [
+      "More options",
+      "Clear grouping",
+      "Bright colors",
+      "Dense text"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "If users keep missing a primary button, the BEST fix is:",
+    "options": [
+      "Move it randomly",
+      "Increase visual prominence",
+      "Add more buttons",
+      "Hide other elements"
     ],
     "correct": 1
   }
