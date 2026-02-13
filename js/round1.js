@@ -348,7 +348,7 @@ function showResult(autoSubmitted, reasonText = "") {
     const participant = localStorage.getItem("participantName") || "Unknown";
 
     resultBox.innerHTML = `
-      <h2>Round 1 Completed</h2>
+      <h2>PRELIMS COMPLETED</h2>
       ${autoSubmitted ? `<p><strong>Auto-submitted.</strong></p>` : ``}
       ${reasonText ? `<p><strong>${reasonText}</strong></p>` : ``}
       <p><strong>Participant:</strong> ${participant}</p>
@@ -367,4 +367,3 @@ function showResult(autoSubmitted, reasonText = "") {
     else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
   } catch (_) {}
 }
-
